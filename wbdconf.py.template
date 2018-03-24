@@ -1,0 +1,7 @@
+# wbdconf.py:
+
+ttoken = 'TELEGRAM-TOKEN'
+coinname = 'COIN-NAME'
+coind = '/PATH/TO/COIND'
+owner = 'TELEGRAM-UID'
+unlock_timeout = 120
